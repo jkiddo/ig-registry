@@ -6539,6 +6539,31 @@
           "url": "http://hl7.org/xprod/ig/uv/gender-harmony/2022Sep"
         }
       ]
+    },
+    {
+      "name": "MedCom Terminology",
+      "category": "MedCom Terminology",
+      "npm-name": "medcom.fhir.dk.terminology",
+      "description": "MedCom Terminology",
+      "authority": "MedCom",
+      "country": "dk",
+      "history": "http://medcomfhir.dk/ig/terminology/history.html",
+      "language": [
+        "en"
+      ],
+      "canonical": "http://medcomfhir.dk/ig/terminology",
+      "ci-build": "http://build.fhir.org/ig/hl7dk/dk-core",
+      "editions": [
+        {
+          "name": "Release",
+          "ig-version": "1.0.0",
+          "package": "medcom.fhir.dk.terminology#1.0.0",
+          "fhir-version": [
+            "4.0.1"
+          ],
+          "url": "http://medcomfhir.dk/ig/terminology/1.0.0"
+        }
+      ]
     }
   ]
 }
