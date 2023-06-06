@@ -7427,7 +7427,7 @@
         "en"
       ],
       "canonical": "http://fhir.kl.dk/term",
-      "ci-build": "http://build.fhir.org/ig/hl7dk/KL-term",
+      "ci-build": "http://build.fhir.org/ig/hl7dk/kl-term",
       "editions": [
         {
           "name": "Releases",
